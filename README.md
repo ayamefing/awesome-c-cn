@@ -1,6 +1,6 @@
 # C 语言资源大全中文版 
 
-> 原文：[C 语言资源大全中文版 ](https://github.com/jobbole/awesome-android-cn)
+> 原文：[C 语言资源大全中文版 ](https://github.com/jobbole/awesome-c-cn)
 
 > 作者：[jobbole](https://github.com/jobbole)
 
